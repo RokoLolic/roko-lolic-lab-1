@@ -7,10 +7,6 @@ public class Class1
 		public static int funkcija() {
 			return 3;
 		}
-		public static int funkcija()
-        {
-			return 3;
 
-        }
 	}
 }
