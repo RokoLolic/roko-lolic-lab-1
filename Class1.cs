@@ -6,7 +6,7 @@ public class Class1
 	{
 		public static int funkcija()
         {
-			return 1;
+			return 3;
 
         }
 	}
