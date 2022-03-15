@@ -4,9 +4,9 @@ public class Class1
 {
 	public Class1()
 	{
-		int method()
+		public static int funkcija()
         {
-			return 2;
+			return 1;
 
         }
 	}
